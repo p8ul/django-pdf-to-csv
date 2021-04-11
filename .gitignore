@@ -1,0 +1,16 @@
+# Compiled Python modules
+*.pyo
+*.pyc
+
+# SQLite
+*.db
+*.s3db
+*.sqlite3
+
+
+.idea
+.DS_Store
+env
+output.pdf
+
+*/__pycache__/*
